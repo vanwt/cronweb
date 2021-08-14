@@ -1,0 +1,28 @@
+## backend
+/cronweb/__pycache__/
+/cronweb/.idea/* 
+ 
+## frontend
+/cronweb-vue/.DS_Store
+/cronweb-vue/node_modules
+/cronweb-vue/dist
+
+
+# local env files
+/cronweb-vue/.env.local
+/cronweb-vue/.env.*.local
+
+# Log files
+/cronweb-vue/npm-debug.log*
+/cronweb-vue/yarn-debug.log*
+/cronweb-vue/yarn-error.log*
+/cronweb-vue/pnpm-debug.log*
+ 
+# Editor directories and files
+/cronweb-vue/.idea
+/cronweb-vue/.vscode
+/cronweb-vue/*.suo
+/cronweb-vue/*.ntvs*
+/cronweb-vue/*.njsproj
+/cronweb-vue/*.sln
+/cronweb-vue/*.sw?
